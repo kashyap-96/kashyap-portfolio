@@ -7,3 +7,8 @@ Welcome! This is a quick reference to a list of my recent projects!
 - **Description**: Explored influence of Loyalty Programs in Fast Food Retail through applying data-driven research methods
 - **Materials**: [Google Drive Folder](https://drive.google.com/drive/folders/19jnL8npBcjLzrQIlkWezw4t6pMcs5aOS?usp=drive_link)
 - **GitHub Repository**: [Loyalty-Programs](https://github.com/kashyap-96/Loyalty-Programs)
+
+
+
+### 1. Bike Sharing Data Analysis
+- **GitHub Data Source**: [https://github.com/Gaelim/YT_bike_share]
